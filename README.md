@@ -18,23 +18,6 @@ Release--
 <table align="center">
   <tr>
     <th colspan="2">Network</th>
-    <th colspan="2">Single-batch inference<br>(steps/s)</th>
-    <th colspan="2">Parallel forward<br>(tokens/s)</th>
-  </tr>
-  <tr>
-    <th rowspan="2">Bandwidth</th>
-    <th rowspan="2">Round-trip<br>latency</th>
-    <th colspan="2">Sequence length</th>
-    <th colspan="2">Batch size</th>
-  </tr>
-  <tr align="center">
-    <td>128</td>
-    <td>2048</td>
-    <td>1</td>
-    <td>64</td>
-  </tr>
-  <tr>
-    <th colspan="6"> Test<sup>1</sup></th>
   </tr>
   <tr align="center">
     <td>256 Gbit/s</td>
