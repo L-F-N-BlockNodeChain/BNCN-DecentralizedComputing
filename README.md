@@ -63,7 +63,7 @@ Release--
     <td>179.4</td>
   </tr>
   <tr>
-    <th colspan="6"> Block Node Chain Server Test <sup>1</sup></th>
+    <th colspan="6"> Block Node Chain Server Test Via(AWS) <sup>1</sup></th>
   </tr>
   <tr align="center">
     <td>1 Gbit/s</td>
