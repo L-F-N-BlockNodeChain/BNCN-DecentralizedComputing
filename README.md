@@ -6,10 +6,5 @@ The Computing Network For block node chain
 
 GUI --
 Version--
-
-
-
-
 Beta--
-
 Release--
