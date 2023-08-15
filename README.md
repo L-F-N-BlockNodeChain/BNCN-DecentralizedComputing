@@ -17,7 +17,7 @@ Release--
 
 <table align="center">
   <tr>
-    <th colspan="2">Network</th>
+    <th colspan="1">Network</th>
   </tr>
   <tr align="center">
     <td>256 Gbit/s</td>
