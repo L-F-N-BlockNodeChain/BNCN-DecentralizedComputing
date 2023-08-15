@@ -34,7 +34,7 @@ Release--
     <td>64</td>
   </tr>
   <tr>
-    <th colspan="6">Offloading, max. possible speed on 1x A100 <sup>1</sup></th>
+    <th colspan="6"> Test<sup>1</sup></th>
   </tr>
   <tr align="center">
     <td>256 Gbit/s</td>
@@ -63,7 +63,7 @@ Release--
     <td>179.4</td>
   </tr>
   <tr>
-    <th colspan="6">Petals on 3 servers, with one A100 each <sup>3</sup></th>
+    <th colspan="6"> Block Node Chain Server Test <sup>1</sup></th>
   </tr>
   <tr align="center">
     <td>1 Gbit/s</td>
