@@ -53,7 +53,7 @@ Release--
     <td>152.8</td>
   </tr>
   <tr>
-    <th colspan="6">Petals on 14 heterogeneous servers across Europe and North America <sup>2</sup></th>
+    <th colspan="6">Block Node Chain /User Pc/ <sup>2</sup></th>
   </tr>
   <tr align="center">
     <td colspan="2">Real world</td>
