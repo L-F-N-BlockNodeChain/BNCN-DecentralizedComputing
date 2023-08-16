@@ -1,4 +1,4 @@
-# BNCN-Network
+# BNCN-Network For Computing
 The Computing Network For block node chain 
 
 ------------ Node as Validator -------
